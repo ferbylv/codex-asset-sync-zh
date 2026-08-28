@@ -3,3 +3,4 @@ __pycache__/
 .codex_backups/
 .pytest_cache/
 .DS_Store
+tests/
