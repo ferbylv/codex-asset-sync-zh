@@ -1,6 +1,0 @@
-__pycache__/
-*.py[cod]
-.codex_backups/
-.pytest_cache/
-.DS_Store
-tests/
